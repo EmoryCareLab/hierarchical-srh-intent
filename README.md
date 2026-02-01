@@ -6,7 +6,7 @@ This project frames Sexual and Reproductive Health (SRH) intent understanding as
 Queries are classified using a predefined intent hierarchy covering major SRH domains.
 
 ### 🤖 Models Evaluated
-All models were accessed via the OpenRouter API, with the exception of `sarvamai/sarvam-m`, which was accessed directly through the Sarvam AI platform.
+All models were accessed via the OpenRouter API, with the exception of `sarvam-m`, which was accessed directly through the Sarvam AI platform.
 
 
 ####  Proprietary models
@@ -21,7 +21,7 @@ All models were accessed via the OpenRouter API, with the exception of `sarvamai
 - ```google/gemma-3-27b-it```
 - ```qwen/qwen-2.5-7b-instruct```
 - ```mistralai/mixtral-8x7b-instruct```
-- ```sarvamai/sarvam-m```
+- ```sarvam-m```
 
 All models are evaluated using identical prompts and inference settings to enable fair comparison.
 
