@@ -11,9 +11,6 @@ This project frames Sexual and Reproductive Health (SRH) intent understanding as
   <em>Figure: Hierarchical intent classification pipeline for code-mixed SRH queries.</em>
 </p>
 
-
-Queries are classified using a predefined intent hierarchy covering major SRH domains.
-
 ### 🤖 Models Evaluated
 All models were accessed via the OpenRouter API, with the exception of `sarvam-m`, which was accessed directly through the Sarvam AI platform.
 
