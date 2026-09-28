@@ -96,4 +96,13 @@ Each script internally calls inference script (`run_intent_openapi.py` or `run_i
 
 ### 📚 Citation 
 ```
+@article{dey2026understanding,
+  title={Understanding User Intent in Code-Mixed Sexual and Reproductive Health Queries in Urban India: Hierarchical Classification Approach Using Large Language Models},
+  author={Dey, Sumon Kanti and Manvi, S and Thapa, Aradhana and Shah, Meet and Mehta, Zeel and Kapile, Shraddha Kale and Divate, Tanvi and Jalota, Suhani and Ismail, Azra},
+  journal={Journal of medical Internet research},
+  volume={28},
+  pages={e86545},
+  year={2026},
+  publisher={JMIR Publications Toronto, Canada}
+}
 ```
